@@ -1,4 +1,4 @@
-public class Degiskenler {
+public class degiskenler {
     public static void main(String[] args) {
         int ogrenciSayisi = 39;
         String mesaj = "Öğrenci sayım: ";
