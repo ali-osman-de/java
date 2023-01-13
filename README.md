@@ -1,2 +1,2 @@
 # javaBTK
-Derste öğrendiklerimi ve BTK Akademiden edindiğim bilgileri buraya yükleyeceğim.
+Üniversite derslerimden öğrendiğim bilgileri ve BTK Akademiden edindiğim bilgileri buraya yükleyeceğim.
